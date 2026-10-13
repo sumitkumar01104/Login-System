@@ -28,10 +28,9 @@ This project demonstrates a basic login form with username and password fields, 
 2. Run the script using Python:
 
 ```bash
-python login.py
-
- 
+python "Login System.py"
 ```
+
 ## 📚 Learning Purpose
 This project was created as part of my Python learning journey to practice GUI development using Tkinter.
 
@@ -43,9 +42,3 @@ This project was created as part of my Python learning journey to practice GUI d
 - 💼 **GitHub**: [@sumitkumar01104](https://github.com/sumitkumar01104)
 - 📸 **Instagram**: [@i..sumit..nagar](https://www.instagram.com/i._.sumit._.nagar?igsh=MW95OHE3aW1maWR3bQ==)
 - 💬 **Telegram**: [@i_sumit_nagar](https://t.me/Sumitkumarha386)
-
-## 📸 PREVIEW
-![🔷 Main Window](main_window.png)
-![✅ Successful Login](login_success.png)
-![❌ Wrong Username or Password](login_error.png)
-
